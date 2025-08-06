@@ -1,0 +1,14 @@
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\bin\Debug\net9.0\ZooWithInheritance.exe
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\bin\Debug\net9.0\ZooWithInheritance.deps.json
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\bin\Debug\net9.0\ZooWithInheritance.runtimeconfig.json
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\bin\Debug\net9.0\ZooWithInheritance.dll
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\bin\Debug\net9.0\ZooWithInheritance.pdb
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\obj\Debug\net9.0\ZooWithInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\obj\Debug\net9.0\ZooWithInheritance.AssemblyInfoInputs.cache
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\obj\Debug\net9.0\ZooWithInheritance.AssemblyInfo.cs
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\obj\Debug\net9.0\ZooWithInheritance.csproj.CoreCompileInputs.cache
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\obj\Debug\net9.0\ZooWithInheritance.dll
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\obj\Debug\net9.0\refint\ZooWithInheritance.dll
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\obj\Debug\net9.0\ZooWithInheritance.pdb
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\obj\Debug\net9.0\ZooWithInheritance.genruntimeconfig.cache
+C:\Users\gnahk\Desktop\SIT\232\ZooWithInheritance\obj\Debug\net9.0\ref\ZooWithInheritance.dll
